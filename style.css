@@ -19,7 +19,7 @@ main {
 }
 
 p, h1 {
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 1rem;
 }
 
 button {
@@ -31,6 +31,8 @@ button {
     -moz-border-radius: 1rem;
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
+    border: transparent;
+    color: inherit;
 }
 
 .btn-container {
